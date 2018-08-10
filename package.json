@@ -1,0 +1,15 @@
+{
+  "name": "portfolio_orrinfordjour",
+  "version": "1.0.0",
+  "description": "responsive portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o Orrin/css --recursive"
+  },
+  "author": "Orrin Fordjour",
+  "license": "MIT"
+}
